@@ -1,2 +1,2 @@
 # C1
-This took a lot of work... but I successfully used Next.js and React together to complete this website. The CSS rulesets are covered through Tailwind! I know in the directions it says not to do it this way, but I though tit would be a good learning opportunity.
+This took a lot of work... but I successfully used Next.js and React together to complete this website. The CSS rulesets are covered through Tailwind! I know in the directions it says not to do it this way, but I though it would be a good learning opportunity.
